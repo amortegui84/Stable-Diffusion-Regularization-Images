@@ -1,2 +1,2 @@
-# Stable-Diffusion-Regularization-Images2
+# Stable-Diffusion-Regularization-Images
 objects
